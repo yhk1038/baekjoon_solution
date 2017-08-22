@@ -16,4 +16,4 @@ If you wanna share to someone or to your local machine, just fork it for notice 
 
 ## Index
 
-- [1003\. Pibonacci]()
+- [1003\. Pibonacci](https://github.com/yhk1038/baekjoon_solution/blob/master/1003_pibonacci.rb)
