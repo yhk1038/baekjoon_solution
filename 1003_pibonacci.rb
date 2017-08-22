@@ -23,7 +23,7 @@ input , @dic = [], {}
 gets.chomp.to_i.times { input << gets.chomp.to_i }
 input.each { |n| test_for(n) if n.between?(0,40) }
 
-puts @dic
+# puts @dic
 
 =begin
 4 -> 3, 2
